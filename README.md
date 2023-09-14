@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yazan-Z
 - 👀 I’m interested in Hardware
 - 🌱 I’m currently learning Coding, math and physics
-- 💞️ I’m looking to collaborate on, nothing
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me is through e-mail at Yazambtw@gmail.com
 
 <!---
